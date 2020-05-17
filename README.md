@@ -1,0 +1,2 @@
+# .config
+The Rats testing
