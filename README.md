@@ -10,7 +10,9 @@ Easy on the eyes, has peach on dark purple text, and fuchsia accents.
 ### Spooky Orange
 ![Spooky Cordless](images/cordless-spooky.png)
 Funky and only a little dated, has white on black text and orange accents.
-
+### Chill Blue
+![Chill Cordless](images/cordless-chill.png)
+The peak of low contrast, has light blue on dark blue text, and light blue accents.
 ## How to use
 1. Make sure you have ![cordless](https://github.com/Bios-Marcel/cordless) installed. That's kind of important.
 2. Replace your theme.json (usually in .config/cordless/) with one of mine.
